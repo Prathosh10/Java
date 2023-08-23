@@ -31,6 +31,6 @@ public class selection_sort {
     }
 
     static void SelectSort1(int nums[]){
-
+        
     }
 }
